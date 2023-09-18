@@ -1,0 +1,4 @@
+export const SET_USER_INFOR = 'SET_USER_INFOR';
+export const SET_MODAL_LOADING = 'SET_MODAL_LOADING';
+//
+export const SET_CATEGORY = 'SET_CATEGORY';
